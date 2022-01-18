@@ -21,7 +21,11 @@ Follow the instructions in [this notebook](./train_and_deploy.ipynb) to get star
 
 [Train a classification model with no-code using AutoML](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml)
 
-[Train a forecast model with no-cde using AutoML](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-automated-ml-forecast)
+[Train a forecast model with no-code using AutoML](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-automated-ml-forecast)
+
+[Train a model with Designer](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-power-bi-designer-model)
+
+[Designer Samples](https://docs.microsoft.com/en-us/azure/machine-learning/samples-designer)
 
 [Advanced entry/score scipt authoring](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-advanced-entry-script)
 
